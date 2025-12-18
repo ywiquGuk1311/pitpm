@@ -1,0 +1,11 @@
+C:\Users\natal\Desktop\labs\lab9\MutationTesting\TransactionLib\bin\Debug\net8.0\TransactionLib.deps.json
+C:\Users\natal\Desktop\labs\lab9\MutationTesting\TransactionLib\obj\Debug\net8.0\TransactionLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\Desktop\labs\lab9\MutationTesting\TransactionLib\obj\Debug\net8.0\TransactionLib.AssemblyInfoInputs.cache
+C:\Users\natal\Desktop\labs\lab9\MutationTesting\TransactionLib\obj\Debug\net8.0\TransactionLib.AssemblyInfo.cs
+C:\Users\natal\Desktop\labs\lab9\MutationTesting\TransactionLib\bin\Debug\net8.0\TransactionLib.dll
+C:\Users\natal\Desktop\labs\lab9\MutationTesting\TransactionLib\bin\Debug\net8.0\TransactionLib.pdb
+C:\Users\natal\Desktop\labs\lab9\MutationTesting\TransactionLib\obj\Debug\net8.0\TransactionLib.csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\labs\lab9\MutationTesting\TransactionLib\obj\Debug\net8.0\TransactionLib.dll
+C:\Users\natal\Desktop\labs\lab9\MutationTesting\TransactionLib\obj\Debug\net8.0\refint\TransactionLib.dll
+C:\Users\natal\Desktop\labs\lab9\MutationTesting\TransactionLib\obj\Debug\net8.0\TransactionLib.pdb
+C:\Users\natal\Desktop\labs\lab9\MutationTesting\TransactionLib\obj\Debug\net8.0\ref\TransactionLib.dll

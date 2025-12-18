@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\natal\\Desktop\\labs\\lab9\\MutationTesting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D389A63-5BD4-4487-8E35-BB15FB44A92F}|TransactionTests\\TransactionTests.csproj|c:\\users\\natal\\desktop\\labs\\lab9\\mutationtesting\\transactiontests\\transactionanalyzertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D389A63-5BD4-4487-8E35-BB15FB44A92F}|TransactionTests\\TransactionTests.csproj|solutionrelative:transactiontests\\transactionanalyzertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB17C39-721C-4581-BF1C-C0FF342BB120}|TransactionLib\\TransactionLib.csproj|c:\\users\\natal\\desktop\\labs\\lab9\\mutationtesting\\transactionlib\\transactionclassifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EB17C39-721C-4581-BF1C-C0FF342BB120}|TransactionLib\\TransactionLib.csproj|solutionrelative:transactionlib\\transactionclassifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransactionAnalyzerTests.cs",
+              "DocumentMoniker": "C:\\Users\\natal\\Desktop\\labs\\lab9\\MutationTesting\\TransactionTests\\TransactionAnalyzerTests.cs",
+              "RelativeDocumentMoniker": "TransactionTests\\TransactionAnalyzerTests.cs",
+              "ToolTip": "C:\\Users\\natal\\Desktop\\labs\\lab9\\MutationTesting\\TransactionTests\\TransactionAnalyzerTests.cs",
+              "RelativeToolTip": "TransactionTests\\TransactionAnalyzerTests.cs",
+              "ViewState": "AgIAAPMAAAAAAAAAAAAAwAABAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:51:03.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionClassifier.cs",
+              "DocumentMoniker": "C:\\Users\\natal\\Desktop\\labs\\lab9\\MutationTesting\\TransactionLib\\TransactionClassifier.cs",
+              "RelativeDocumentMoniker": "TransactionLib\\TransactionClassifier.cs",
+              "ToolTip": "C:\\Users\\natal\\Desktop\\labs\\lab9\\MutationTesting\\TransactionLib\\TransactionClassifier.cs",
+              "RelativeToolTip": "TransactionLib\\TransactionClassifier.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAswEIAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:51:00.922Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
