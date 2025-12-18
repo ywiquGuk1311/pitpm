@@ -1,0 +1,14 @@
+C:\Users\natal\Desktop\labs\lab2\labwok2\labwok2\bin\Debug\net8.0\labwok2.exe
+C:\Users\natal\Desktop\labs\lab2\labwok2\labwok2\bin\Debug\net8.0\labwok2.deps.json
+C:\Users\natal\Desktop\labs\lab2\labwok2\labwok2\bin\Debug\net8.0\labwok2.runtimeconfig.json
+C:\Users\natal\Desktop\labs\lab2\labwok2\labwok2\bin\Debug\net8.0\labwok2.dll
+C:\Users\natal\Desktop\labs\lab2\labwok2\labwok2\bin\Debug\net8.0\labwok2.pdb
+C:\Users\natal\Desktop\labs\lab2\labwok2\labwok2\obj\Debug\net8.0\labwok2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\Desktop\labs\lab2\labwok2\labwok2\obj\Debug\net8.0\labwok2.AssemblyInfoInputs.cache
+C:\Users\natal\Desktop\labs\lab2\labwok2\labwok2\obj\Debug\net8.0\labwok2.AssemblyInfo.cs
+C:\Users\natal\Desktop\labs\lab2\labwok2\labwok2\obj\Debug\net8.0\labwok2.csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\labs\lab2\labwok2\labwok2\obj\Debug\net8.0\labwok2.dll
+C:\Users\natal\Desktop\labs\lab2\labwok2\labwok2\obj\Debug\net8.0\refint\labwok2.dll
+C:\Users\natal\Desktop\labs\lab2\labwok2\labwok2\obj\Debug\net8.0\labwok2.pdb
+C:\Users\natal\Desktop\labs\lab2\labwok2\labwok2\obj\Debug\net8.0\labwok2.genruntimeconfig.cache
+C:\Users\natal\Desktop\labs\lab2\labwok2\labwok2\obj\Debug\net8.0\ref\labwok2.dll
